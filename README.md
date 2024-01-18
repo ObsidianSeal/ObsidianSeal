@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ObsidianSeal
 - 👀 I’m interested in programming, civil engineering, graphic design, and more
 - 🌱 I’m currently learning Java and JavaScript
-- 📫 Obsidian_Seal#8068 on Discord
+- 📫 **obsidian_seal** on Discord
