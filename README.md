@@ -5,6 +5,7 @@
 **ABOUT:** [pinniped.page/about](https://pinniped.page/about)<br />
 
 **enjoyer of:**
+
 - transportation/planning
 - video games
 - design/typography
